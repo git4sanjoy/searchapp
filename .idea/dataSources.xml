@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2344482205">
+    <data-source source="LOCAL" name="Rails searchapp: development" uuid="33a71462-908c-43e8-a310-d0cbea5cdaca">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:searchapp_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfd9dfcbdfc4dfc0dfc5dfd3df9ddf92</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails searchapp: test" uuid="7ed3c25f-bb38-46fa-80fe-b5f82ee4230b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:searchapp_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfd9dfcbdfc4dfc0dfc5dfd3df9ddf92</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails searchapp: production" uuid="ddd90ac2-fc35-4203-a9cb-892d76e09171">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:searchapp_production</jdbc-url>
+      <user-name>searchapp</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dfefdfebdff8dfe9dfe2dfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
