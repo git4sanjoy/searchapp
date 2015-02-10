@@ -12,17 +12,17 @@
     <data-source source="LOCAL" name="Rails searchapp: test" uuid="7ed3c25f-bb38-46fa-80fe-b5f82ee4230b">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:d2avtn5l0oiu75</jdbc-url>
-      <user-name>fsunudrixcenno</user-name>
-      <user-password>dffcdfdadfefdfc9dfc0dfc1dfe7dfcddfe0dfdedffbdf9bdfc3dfc0dfd3dff5df98dff3dfecdfc6dfe4dffcdfc6dfc6dfffdfe5</user-password>
+      <jdbc-url>jdbc:postgresql:searchapp_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfd9dfcbdfc4dfc0dfc5dfd3df9ddf92</user-password>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails searchapp: production" uuid="ddd90ac2-fc35-4203-a9cb-892d76e09171">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:searchapp_production</jdbc-url>
-      <user-name>searchapp</user-name>
-      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dfefdfebdff8dfe9dfe2dfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <jdbc-url>jdbc:postgresql://ec2-54-235-99-22.compute-1.amazonaws.com/d2avtn5l0oiu75</jdbc-url>
+      <user-name>fsunudrixcenno</user-name>
+      <user-password>dffcdfdadfefdfc9dfc0dfc1dfe7dfcddfe0dfdedffbdf9bdfc3dfc0dfd3dff5df98dff3dfecdfc6dfe4dffcdfc6dfc6dfffdfe5</user-password>
       <libraries />
     </data-source>
   </component>
