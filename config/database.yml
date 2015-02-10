@@ -61,12 +61,12 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: searchapp_test
+  database: d2avtn5l0oiu75
   adapter: postgresql
   encoding: unicode
   pool: 5
-  username: postgres
-  password: sanjoy78
+  username: fsunudrixcenno
+  password: VpEcjkMgJtQ1ijy_2YFlNVllUO
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
 # ever seen by anyone, they now have access to your database.
